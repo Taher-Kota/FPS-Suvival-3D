@@ -12,7 +12,9 @@ Features
 -   **Expansive Forest Environment**: Explore a large, dense forest filled with natural hazards and hostile entities.
 
 -   **Challenging Enemies**: Fight off aggressive boars and cunning cannibals.
-
+    
+-   **Advanced AI and Navigation**: The project utilizes NavMesh agents and AI models to create realistic enemy behaviors and dynamic pathfinding in the game.
+  
 -   **Diverse Arsenal**: Equip and switch between six different weapons:
 
     -   Axe
