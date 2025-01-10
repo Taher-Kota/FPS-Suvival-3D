@@ -62,20 +62,16 @@ Follow these steps to clone the repository and set up the game on your local mac
 2.  Clone the repository:
 
     ```
-    git clone <repository_url>
+    git clone https://github.com/Taher-Kota/FPS-Suvival-3D.git
     ```
 
-3.  Navigate to the project folder:
+3.  Open Unity Hub and click on "Open Project."
 
-    ```
-    cd <repository_folder>
-    ```
+4.  Browse to the cloned repository folder and select it.
 
-4.  Open Unity Hub and click on "Open Project."
+5.  Wait for Unity to load the project. Resolve any dependency issues if prompted.
 
-5.  Browse to the cloned repository folder and select it.
-
-6.  Wait for Unity to load the project. Resolve any dependency issues if prompted.
+6.  Select Full HD(1920x1080) Display Resolution.
 
 7.  Click the "Play" button in the Unity Editor to start the game.
 
