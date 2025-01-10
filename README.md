@@ -6,6 +6,13 @@ Overview
 
 FPS Survival 3D Game is an immersive first-person shooter game set in a vast, treacherous forest teeming with dangerous boars and cannibals. Armed with a variety of weapons, you must survive the wilderness by hunting, defending yourself, and navigating the perilous environment.
 
+![Screenshot 2025-01-10 165430](https://github.com/user-attachments/assets/9992d931-8795-402b-a448-9e8b92e7cbfb)
+
+![Screenshot 2025-01-10 165532](https://github.com/user-attachments/assets/4ddd43bc-ac26-41ba-b6fc-46ac559edac7)
+
+![Screenshot 2025-01-10 165639](https://github.com/user-attachments/assets/4c96498c-74e5-4c9f-82b8-95e351dbc69a)
+
+
 Features
 --------
 
